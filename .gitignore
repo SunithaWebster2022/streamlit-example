@@ -1,1 +1,9 @@
 certs/
+*bin/*
+*lib/*
+*etc/*
+*.streamlit/*
+*include/*
+*share/*
+*.venv/*
+*pyvenv.cfg*
